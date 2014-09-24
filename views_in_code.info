@@ -1,0 +1,7 @@
+name = "Views in Code"
+description = "Code Repository for Views used in the site. Place views code in: /sites/all/modules/views_in_code/views"
+package = Views
+core = 7.x
+version = "7.x-1.0"
+dependencies[] = views
+files[] = views_in_code.module
