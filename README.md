@@ -18,5 +18,9 @@ See the included example view to get an idea of what the exported view should lo
 
 5) If you modify a view that you have in code, export it and overwrite the existing view in code. Once you upload the updated version, clear all caches and then revert the view. This will clear the view and your new code will take precedence.  
 
-NOTE
+NOTES
+=====
+
 This is a Drupal 7 + Views 3.0 module. 
+
+You will need to rename this module views_in_code and install it in your modules directory (ie: /sites/all/modules/)
